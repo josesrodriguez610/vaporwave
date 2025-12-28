@@ -29,7 +29,7 @@ export default function Home() {
           : undefined
       }
     >
-      <main className="mx-auto max-w-6xl px-2 md:px-0 pt-10 pb-28 md:pt-28">
+      <main className="mx-auto max-w-6xl px-2 md:px-0 pt-10 pb-28 md:pt-10">
         {/* Title */}
         <header className="mb-20 text-center">
           <h1
